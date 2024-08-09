@@ -1,0 +1,15 @@
+body{
+    background-color: #85685a;
+    color: #ecf8d4;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.div{
+    position: static;
+}
+
+.cabeçalhoerodapé{
+    position: static;
+    background-color: #cb8e5f;
+}
